@@ -3,17 +3,17 @@
 public class PaidInteger
 {
     private int value; // Przechowywana wartość
-    private int freeOperationLimit; // Limit bezpłatnych operacji
+    private readonly int freeOperationLimit; // Limit bezpłatnych operacji
     private int getCount; // Licznik operacji pobierania
     private int setCount; // Licznik operacji nadawania
 
     // Konstruktor
     public PaidInteger(int initialValue, int freeOperationLimit)
     {
-        this.value = initialValue;
+        value = initialValue;
         this.freeOperationLimit = freeOperationLimit;
-        this.getCount = 0;
-        this.setCount = 0;
+        getCount = 0;
+        setCount = 0;
     }
 
     // Właściwość z akcesorami get i set
