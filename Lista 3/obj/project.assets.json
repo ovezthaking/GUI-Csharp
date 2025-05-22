@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/oliwer/Repos/GUI-Csharp/Lista 1/zad2/zad2.csproj",
-      "projectName": "zad2",
-      "projectPath": "/home/oliwer/Repos/GUI-Csharp/Lista 1/zad2/zad2.csproj",
+      "projectUniqueName": "/home/oliwer/Repos/GUI-Csharp/Lista 3/Lista 3.csproj",
+      "projectName": "Lista 3",
+      "projectPath": "/home/oliwer/Repos/GUI-Csharp/Lista 3/Lista 3.csproj",
       "packagesPath": "/home/oliwer/.nuget/packages/",
-      "outputPath": "/home/oliwer/Repos/GUI-Csharp/Lista 1/zad2/obj/",
+      "outputPath": "/home/oliwer/Repos/GUI-Csharp/Lista 3/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/oliwer/.nuget/NuGet/NuGet.Config"
