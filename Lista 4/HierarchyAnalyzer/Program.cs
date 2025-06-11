@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -13,11 +13,10 @@ namespace HierarchyAnalyzer
         {
             Console.WriteLine("=== ANALIZA HIERARCHII DZIEDZICZENIA KLAS ===\n");
 
-            // Ścieżka do analizowanego zestawu - można zmienić na dowolną
+            // Ścieżka do analizowanego zestawu
             string assemblyPath = "SampleClasses.dll";
             
-            // Alternatywnie można podać pełną ścieżkę:
-            // string assemblyPath = @"C:\Path\To\Your\SampleClasses.dll";
+            
 
             try
             {
